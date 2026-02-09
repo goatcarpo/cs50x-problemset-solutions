@@ -1,0 +1,23 @@
+HTML TAGS:
+1. <header>
+2. <footer>
+3. <h2>
+4. <br>
+5. <span>
+6. <ul>
+7. <li>
+8. <div>
+9. <img>
+10. <a href>
+
+CSS Properties:
+1. display
+2. justify-content
+3. text-align
+4. color
+5. width
+
+Usage of JS and Bootstrap:
+I used the bootstrap library to create two buttons with a nice white hover/click effect. I used javascript to either
+show or hide some information about me when clicking these buttons (can be found on main page). I also
+used JS to show the current date every time you visit my main page.
