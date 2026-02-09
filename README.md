@@ -1,6 +1,6 @@
 # CS50X Problem Sets – C und JavaScript/HTML/CSS
 
-Dieses Repository enthält meine Lösungen für die Problem Sets aus CS50X, umgesetzt in verschiedenen Programmiersprachen.
+Dieses Repository enthält meine Lösungen für die Problem Sets aus CS50X, umgesetzt in verschiedenen Programmiersprachen. Entwicklungsumgebung war vereinfacht im Rahmen des Kurses über einen GitHub-Codespace mit temporären Hilfsmitteln und Vereinfachungen (bspw. vereinfachtes Deklarieren von Datentypen "string" etc.)
 
 ## Struktur
 
